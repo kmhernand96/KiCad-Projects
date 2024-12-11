@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "09031646922"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-06-23-18:31:25)
+    (mountForm default
+        (footprintRef "09031646922")
+        (spec "System")
+    )
+)

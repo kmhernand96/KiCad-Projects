@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 09036642921
+D DIN C male angled, 64pin, w/ coding, PL1 (rows a,c loaded)
+K
+F https://b2b.harting.com/files/download/PRD/PDF_DS/PDF_DS_09031200203.pdf
+$ENDCMP
+#
+#End Doc Library

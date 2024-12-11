@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=5650945-5
+PartCategory=Connector
+PackageCategory=Other
+PinCount=66
+Version=2.2
+Released=2019-10-30 11:38:24
+Downloaded=2024-12-05 20:03:10
+3D=Y

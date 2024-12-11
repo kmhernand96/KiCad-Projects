@@ -1,0 +1,83 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+5650945-5 56509455 I CON 7 1 0 0 0
+TIMESTAMP 2024.12.05.20.03.10
+"Mouser Part Number" 571-5650945-5
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5650945-5?qs=%2FFe7VTH785B%252B77b5t925bQ%3D%3D
+"Manufacturer_Name" TE Connectivity
+"Manufacturer_Part_Number" 5650945-5
+"Description" 2.54mm,pin,horizontal,solder,PCB,64way
+"Datasheet Link" https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F650473%7FS%7Fpdf%7FEnglish%7FENG_CD_650473_S_baseFilename.pdf%7F5650945-5
+"Geometry.Height" 11.1mm
+GATE 1 66 0
+5650945-5
+A1 0 U A1
+A2 0 U A2
+A3 0 U A3
+A4 0 U A4
+A5 0 U A5
+A6 0 U A6
+A7 0 U A7
+A8 0 U A8
+A9 0 U A9
+A10 0 U A10
+A11 0 U A11
+A12 0 U A12
+A13 0 U A13
+A14 0 U A14
+A15 0 U A15
+A16 0 U A16
+A17 0 U A17
+A18 0 U A18
+A19 0 U A19
+A20 0 U A20
+A21 0 U A21
+A22 0 U A22
+A23 0 U A23
+A24 0 U A24
+A25 0 U A25
+A26 0 U A26
+A27 0 U A27
+A28 0 U A28
+A29 0 U A29
+A30 0 U A30
+A31 0 U A31
+A32 0 U A32
+C1 0 U C1
+C2 0 U C2
+C3 0 U C3
+C4 0 U C4
+C5 0 U C5
+C6 0 U C6
+C7 0 U C7
+C8 0 U C8
+C9 0 U C9
+C10 0 U C10
+C11 0 U C11
+C12 0 U C12
+C13 0 U C13
+C14 0 U C14
+C15 0 U C15
+C16 0 U C16
+C17 0 U C17
+C18 0 U C18
+C19 0 U C19
+C20 0 U C20
+C21 0 U C21
+C22 0 U C22
+C23 0 U C23
+C24 0 U C24
+C25 0 U C25
+C26 0 U C26
+C27 0 U C27
+C28 0 U C28
+C29 0 U C29
+C30 0 U C30
+C31 0 U C31
+C32 0 U C32
+MH1 0 U MH1
+MH2 0 U MH2
+
+*END*
+*REMARK* SamacSys ECAD Model
+192661/564588/2.50/66/4/Connector

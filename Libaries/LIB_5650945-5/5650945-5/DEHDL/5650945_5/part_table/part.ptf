@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '5650945_5'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "5650945-5" (!) = "", "56509455", "Other", "571-5650945-5", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5650945-5?qs=%2FFe7VTH785B%252B77b5t925bQ%3D%3D", "2.54mm,pin,horizontal,solder,PCB,64way", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F650473%7FS%7Fpdf%7FEnglish%7FENG_CD_650473_S_baseFilename.pdf%7F5650945-5", "11.1 mm"
+END_PART
+
+END.
