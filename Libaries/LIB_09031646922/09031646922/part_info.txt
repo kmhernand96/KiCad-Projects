@@ -1,9 +1,0 @@
-Manufacturer=HARTING
-PartNumber=09031646922
-PartCategory=Connector
-PackageCategory=Other
-PinCount=64
-Version=9.4
-Released=2018-04-04 15:44:24
-Downloaded=2024-12-05 20:31:16
-3D=Y

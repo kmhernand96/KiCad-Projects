@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 09031646922
-D DIN C male straight, 64pin, PL2 (rows a,c loaded)
-K
-F https://b2b.harting.com/files/download/PRD/PDF_DS/PDF_DS_09031200201.pdf
-$ENDCMP
-#
-#End Doc Library
