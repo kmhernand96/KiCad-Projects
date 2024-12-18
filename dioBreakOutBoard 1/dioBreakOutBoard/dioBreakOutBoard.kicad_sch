@@ -1,0 +1,1246 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "98e3a74d-079b-42d2-b386-3e452c68576a")
+	(paper "B")
+	(lib_symbols
+		(symbol "Mechanical:MountingHole_Pad"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0) hide
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 284.48 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45dfa4ea-310a-481f-ae3b-6c9d49a08366")
+	)
+	(junction
+		(at 264.16 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60730a68-b068-4a75-9696-5818ef60a196")
+	)
+	(junction
+		(at 274.32 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c70e24b-6215-4f34-8e9f-64d32d4bcda7")
+	)
+	(junction
+		(at 254 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c8adfb7-cf59-49f1-83c1-68ba55da4034")
+	)
+	(junction
+		(at 233.68 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a703755-b42d-438a-bf43-73a0bd939e65")
+	)
+	(junction
+		(at 243.84 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3b7e407-2ab1-44be-8ce3-928cb59281d5")
+	)
+	(wire
+		(pts
+			(xy 264.16 137.16) (xy 264.16 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00adaa3e-e14e-4d58-8b4f-5395b511757d")
+	)
+	(wire
+		(pts
+			(xy 233.68 137.16) (xy 243.84 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15358146-4c8a-44e7-ae07-20341421c0e1")
+	)
+	(wire
+		(pts
+			(xy 233.68 138.43) (xy 233.68 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16c72f3f-4bd2-4c59-8c87-68ee0347fca3")
+	)
+	(wire
+		(pts
+			(xy 254 137.16) (xy 264.16 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "199ed505-4137-4b2e-828d-87942b5a83f5")
+	)
+	(wire
+		(pts
+			(xy 274.32 137.16) (xy 274.32 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21636cae-ee09-42e2-9b15-955a2f87a049")
+	)
+	(wire
+		(pts
+			(xy 254 137.16) (xy 254 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22422504-c02d-472f-9e2f-3beb173aec4c")
+	)
+	(wire
+		(pts
+			(xy 233.68 137.16) (xy 233.68 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "239c23c3-8a86-4aa3-800f-db8ce45b3b7d")
+	)
+	(wire
+		(pts
+			(xy 284.48 137.16) (xy 294.64 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28e6cc8a-a020-4b86-bb5d-af2efb66779b")
+	)
+	(wire
+		(pts
+			(xy 243.84 137.16) (xy 243.84 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f38adb0-f038-45c2-86f5-2f5b173f5d63")
+	)
+	(wire
+		(pts
+			(xy 243.84 137.16) (xy 254 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bb4c07e-6c93-4f6c-8e22-7cc90ddf0cf4")
+	)
+	(wire
+		(pts
+			(xy 274.32 137.16) (xy 284.48 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c565f48f-03e1-4644-aa85-7c19ad46c2c9")
+	)
+	(wire
+		(pts
+			(xy 284.48 137.16) (xy 284.48 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1281944-5858-4caf-b6b7-b7b77613a78b")
+	)
+	(wire
+		(pts
+			(xy 264.16 137.16) (xy 274.32 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f285d715-5a14-44a9-b924-afdc871ee5de")
+	)
+	(wire
+		(pts
+			(xy 294.64 137.16) (xy 294.64 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffbabb4e-a33a-4004-8ec1-113ad589cbbf")
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 284.48 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "30332382-d592-434f-a46b-1199df7c65df")
+		(property "Reference" "H6"
+			(at 287.02 132.1054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 287.02 134.4168 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom"
+			(at 284.48 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 284.48 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 284.48 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d9d02c89-2273-4a51-806b-395eee255a58")
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+			(project "fmc_double_width_template"
+				(path "/ecc23beb-cd99-4d8f-ba84-0b480f1bcaac"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 243.84 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "5dee9ad4-93fb-4c74-af12-685a892b8c25")
+		(property "Reference" "H2"
+			(at 246.38 132.1054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 246.38 134.4168 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom"
+			(at 243.84 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 243.84 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 243.84 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "55da4345-0ab5-4664-a6fb-e9be83ca68e8")
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+			(project "fmc_double_width_template"
+				(path "/ecc23beb-cd99-4d8f-ba84-0b480f1bcaac"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 274.32 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "603fb58d-e8ad-4f73-99ce-52c754e5bcca")
+		(property "Reference" "H5"
+			(at 276.86 132.1054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 276.86 134.4168 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom"
+			(at 274.32 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 274.32 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 274.32 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "905deb5e-57d8-43b3-a6b7-a365d0fd3fb7")
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+			(project "fmc_double_width_template"
+				(path "/ecc23beb-cd99-4d8f-ba84-0b480f1bcaac"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 294.64 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "870db22c-d4b1-4ee6-8458-9ece869b9b04")
+		(property "Reference" "H7"
+			(at 297.18 132.1054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 297.18 134.4168 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom"
+			(at 294.64 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 294.64 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 294.64 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8218e865-1b2d-44ef-954f-1593f1037962")
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+			(project "fmc_double_width_template"
+				(path "/ecc23beb-cd99-4d8f-ba84-0b480f1bcaac"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 264.16 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "8d39749d-c0c9-4982-aa09-8a7fb8629dba")
+		(property "Reference" "H4"
+			(at 266.7 132.1054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 266.7 134.4168 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom"
+			(at 264.16 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 264.16 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 264.16 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ba3ded2f-b6e0-4133-a26b-42da20e306b4")
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+			(project "fmc_double_width_template"
+				(path "/ecc23beb-cd99-4d8f-ba84-0b480f1bcaac"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 254 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "a4b99502-971b-411d-bdfb-f04f25247d6f")
+		(property "Reference" "H3"
+			(at 256.54 132.1054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 256.54 134.4168 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom"
+			(at 254 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 254 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c710fddd-b779-4afe-9a71-99e55135b502")
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+			(project "fmc_double_width_template"
+				(path "/ecc23beb-cd99-4d8f-ba84-0b480f1bcaac"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 233.68 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ae0b0ba1-7bfb-40b5-aef7-5407089452f5")
+		(property "Reference" "H1"
+			(at 236.22 132.1054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 236.22 134.4168 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom"
+			(at 233.68 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 233.68 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 233.68 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "599efc1d-67a6-4c12-abdc-fba9a13c817f")
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+			(project "fmc_double_width_template"
+				(path "/ecc23beb-cd99-4d8f-ba84-0b480f1bcaac"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 233.68 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3ba675f-ef3f-4ce2-81a3-3174bd95ed9e")
+		(property "Reference" "#PWR03"
+			(at 233.68 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 233.807 142.8242 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 233.68 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1411f502-66a0-4621-9b20-d0f8425cbf19")
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+			(project "fmc_double_width_template"
+				(path "/ecc23beb-cd99-4d8f-ba84-0b480f1bcaac"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 189.23 127)
+		(size 12.7 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "14c20e4b-8094-4ee9-b4fd-0033fa622cb6")
+		(property "Sheetname" "BUFFERS1"
+			(at 189.23 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BUFFERS_cont.kicad_sch"
+			(at 189.23 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 153.67 62.23)
+		(size 20.32 44.45)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "51884ab3-d69e-442a-9a16-bca5a85639fb")
+		(property "Sheetname" "HPC DIO Header"
+			(at 153.67 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FMC0_DIO_Header.kicad_sch"
+			(at 153.67 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 204.47 59.69)
+		(size 41.91 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5568129f-8c17-4563-a74d-d153486aa845")
+		(property "Sheetname" "VME_BREAKOUT"
+			(at 204.47 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VME_BRKOUT.kicad_sch"
+			(at 204.47 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 162.56 127)
+		(size 12.7 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5e8f3915-9bbc-4265-9f6c-261485abfd20")
+		(property "Sheetname" "BUFFERS"
+			(at 162.56 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BUFFERS.kicad_sch"
+			(at 162.56 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 175.26)
+		(size 19.05 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "84d14ee0-8aa8-4e73-ae20-ac81a8950f62")
+		(property "Sheetname" "LPC DIO Header"
+			(at 152.4 174.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LPC_DIO_Header.kicad_sch"
+			(at 152.4 210.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.58 137.16)
+		(size 22.86 76.2)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ca1ae1b7-e807-4e93-87f8-4f39e01d0df1")
+		(property "Sheetname" "P2 LPC FMC Connector"
+			(at 68.58 136.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "p2_fmc_connector.kicad_sch"
+			(at 68.58 213.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmc_double_width_template"
+				(path "/ecc23beb-cd99-4d8f-ba84-0b480f1bcaac"
+					(page "3")
+				)
+			)
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.58 59.69)
+		(size 22.86 66.04)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ffebdddf-12f8-4da5-9c2c-1a48a092f152")
+		(property "Sheetname" "P1 HPC FMC Connector"
+			(at 68.58 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "p1_fmc_connector.kicad_sch"
+			(at 68.58 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmc_double_width_template"
+				(path "/ecc23beb-cd99-4d8f-ba84-0b480f1bcaac"
+					(page "2")
+				)
+			)
+			(project "dioBreakOutBoard"
+				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

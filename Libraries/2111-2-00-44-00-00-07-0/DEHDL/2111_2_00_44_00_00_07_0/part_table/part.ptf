@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2111_2_00_44_00_00_07_0'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Mill-Max", "2111-2-00-44-00-00-07-0" (!) = "", "2111200440000070", "Other", "575-2111200440000", "https://www.mouser.co.uk/ProductDetail/Mill-Max/2111-2-00-44-00-00-07-0?qs=utEmeSDTw24MVvI2pdqz7g%3D%3D", "Circuit Board Hardware - PCB 300u AG OVER CU", "https://www.mouser.fr/datasheet/2/273/MMMC_S_A0000306504_1-2553123.pdf", "2.1336 mm"
+END_PART
+
+END.

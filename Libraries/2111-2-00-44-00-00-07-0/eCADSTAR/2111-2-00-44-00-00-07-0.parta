@@ -1,0 +1,62 @@
+(Japanese_coding: sjis)
+(function "ECS_1491377"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-10-08-14:43:53)
+    (utime 2024-03-14-12:43:39)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+    )
+    (property "symbolName" "2111-2-00-44-00-00-07-0")
+)
+
+
+(pinAssign "ECS_1491377"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-10-08-14:43:53)
+    (utime 2024-03-14-12:43:39)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1491377")
+                (port "1" (match "1"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "2111-2-00-44-00-00-07-0")
+)
+
+
+(part "2111-2-00-44-00-00-07-0"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-10-08-14:43:53)
+    (utime 2024-03-14-12:43:39)
+    (packageRef "2111-2-00-44-00-00-07-0")
+    (pinAssignRef "ECS_1491377")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "H")
+    (property "description" "Circuit Board Hardware - PCB 300u AG OVER CU")
+    (property "Mouser_Part_Number" "575-2111200440000")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Mill-Max/2111-2-00-44-00-00-07-0?qs=utEmeSDTw24MVvI2pdqz7g%3D%3D")
+    (property "Manufacturer_Name" "Mill-Max")
+    (property "Manufacturer_Part_Number" "2111-2-00-44-00-00-07-0")
+    (property "Datasheet_Link" "https://www.mouser.fr/datasheet/2/273/MMMC_S_A0000306504_1-2553123.pdf")
+    (property "compAreaTopHeight" 2.1336)
+)
+
+

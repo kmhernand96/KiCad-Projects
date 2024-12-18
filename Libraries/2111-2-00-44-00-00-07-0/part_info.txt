@@ -1,0 +1,9 @@
+Manufacturer=Mill-Max
+PartNumber=2111-2-00-44-00-00-07-0
+PartCategory=Hardware
+PackageCategory=Other
+PinCount=1
+Version=1.3
+Released=2018-10-08 14:43:53
+Downloaded=2024-12-11 15:45:35
+3D=Y

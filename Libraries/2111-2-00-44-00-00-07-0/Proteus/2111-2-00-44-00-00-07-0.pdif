@@ -1,0 +1,91 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "2111-2-00-44-00-00-07-0"
+   (description "Circuit Board Hardware - PCB 300u AG OVER CU")
+   (family "ANA")
+   (package "2111200440000070")
+   (attribute "Datasheet Link" "https://www.mouser.fr/datasheet/2/273/MMMC_S_A0000306504_1-2553123.pdf")
+   (attribute "Geometry.Height" "2.1336mm")
+   (attribute "Mouser Part Number" "575-2111200440000")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Mill-Max/2111-2-00-44-00-00-07-0?qs=utEmeSDTw24MVvI2pdqz7g%3D%3D")
+   (attribute "Manufacturer_Name" "Mill-Max")
+   (attribute "Manufacturer_Part_Number" "2111-2-00-44-00-00-07-0")
+   (gate
+    (symbol "2111-2-00-44-00-00-07-0")
+    (pin "1" 1 PS)
+   )
+  )
+  (symbol "2111-2-00-44-00-00-07-0"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -100) (pt 200 -100) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "2111200440000070"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.35 1.35)
+      (pt 1.35 1.35)
+      (pt 1.35 -1.35)
+      (pt -1.35 -1.35)
+      (pt -1.35 1.35))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.85 0)
+      (arc (pt -0.850 0.000) (pt -0.850 -0.850) (pt 0.850 0.850) (start -180.0) (sweep 180.0))
+      (pt 0.85 0)
+      (arc (pt 0.850 0.000) (pt -0.850 -0.850) (pt 0.850 0.850) (start -180.0) (sweep .0))
+      (pt -0.85 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.85 0)
+      (arc (pt -0.850 0.000) (pt -0.850 -0.850) (pt 0.850 0.850) (start -180.0) (sweep 180.0))
+      (pt 0.85 0)
+      (arc (pt 0.850 0.000) (pt -0.850 -0.850) (pt 0.850 0.850) (start -180.0) (sweep .0))
+      (pt -0.85 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.8382)
+    (plated true)
+    (pad (layer TCOP) (round 1.362))
+    (pad (layer INNER) (round 1.362))
+    (pad (layer BCOP) (round 1.362))
+   )
+   (model "2111-2-00-44-00-00-07-0.stp"
+    (euler 0 -90 90)
+    (offset 0 0 -1.2400000095367432)
+   )
+  )
+ )
+)

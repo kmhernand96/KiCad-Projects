@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 2111-2-00-44-00-00-07-0
+#/1491377/564588/2.50/1/4/Hardware
+DEF 2111-2-00-44-00-00-07-0 H 0 30 Y Y 1 F N
+F0 "H" 650 300 50 H V L CNN
+F1 "2111-2-00-44-00-00-07-0" 650 200 50 H V L CNN
+F2 "2111200440000070" 650 100 50 H I L CNN
+F3 "https://www.mouser.fr/datasheet/2/273/MMMC_S_A0000306504_1-2553123.pdf" 650 0 50 H I L CNN
+F4 "Circuit Board Hardware - PCB 300u AG OVER CU" 650 -100 50 H I L CNN "Description"
+F5 "2.1336" 650 -200 50 H I L CNN "Height"
+F6 "575-2111200440000" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Mill-Max/2111-2-00-44-00-00-07-0?qs=utEmeSDTw24MVvI2pdqz7g%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Mill-Max" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "2111-2-00-44-00-00-07-0" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

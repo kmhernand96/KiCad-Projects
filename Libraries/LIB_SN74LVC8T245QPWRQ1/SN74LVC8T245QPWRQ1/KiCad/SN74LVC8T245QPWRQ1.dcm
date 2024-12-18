@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC8T245QPWRQ1
+D Automotive 8-Bit Dl-Spply Bus Trans. with Voltage Translation and Three-State Outputs
+K
+F http://www.ti.com/lit/gpn/sn74lvc8t245-q1
+$ENDCMP
+#
+#End Doc Library

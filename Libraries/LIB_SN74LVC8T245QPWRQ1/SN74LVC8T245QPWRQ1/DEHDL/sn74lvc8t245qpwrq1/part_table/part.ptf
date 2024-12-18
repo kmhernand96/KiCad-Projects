@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74LVC8T245QPWRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "SN74LVC8T245QPWRQ1" (!) = "", "SOP65P640X120-24N", "Small Outline Packages", "595-74LVC8T245QPWRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC8T245QPWRQ1?qs=NiBvnJE4bX3SX2%2FLC%252BdHyQ%3D%3D", "Automotive 8-Bit Dl-Spply Bus Trans. with Voltage Translation and Three-State Outputs", "http://www.ti.com/lit/gpn/sn74lvc8t245-q1", "1.2 mm"
+END_PART
+
+END.
