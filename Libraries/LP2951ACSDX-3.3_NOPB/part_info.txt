@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LP2951ACSDX-3.3/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=1.1
+Released=2021-08-11 10:54:14
+Downloaded=2024-12-20 19:59:33
+3D=Y

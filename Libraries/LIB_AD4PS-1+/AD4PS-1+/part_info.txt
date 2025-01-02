@@ -1,0 +1,9 @@
+Manufacturer=Mini-Circuits
+PartNumber=AD4PS-1+
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=8
+Version=1.2
+Released=2018-09-06 11:12:21
+Downloaded=2024-12-11 17:08:07
+3D=Y

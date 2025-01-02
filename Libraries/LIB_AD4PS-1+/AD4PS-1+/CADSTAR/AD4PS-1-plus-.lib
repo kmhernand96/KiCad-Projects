@@ -1,0 +1,16 @@
+.AD4PS-1-plus- :1 ;Surface Mount Power Splitter/Combiner
+AD4PS1
+*STM U
+*NGS
+*PLB 1="GND_1" 2="SUM PORT" 3="GND_2" 4="GND_3" 5="PORT 4" 6="PORT 3" 7="PORT 2" 8="PORT 1"
+*MXP 8
+*DFN AD4PS-1-plus-
+~!Mouser Part Number (139-AD4PS-1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Mini-Circuits/AD4PS-1%2b?qs=xZ%2FP%252Ba9zWqZJZSnldG1sZA%3D%3D)
+~!Manufacturer_Name (Mini-Circuits)
+~!Manufacturer_Part_Number (AD4PS-1+)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-545302.pdf)
+~!Height (5.46mm)
+~!3D_Model (AD4PS-1+)
+AD4PS-1-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BD80FD0WHFPTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BD80FD0WHFPTR")
+        (spec "default")
+    )
+)

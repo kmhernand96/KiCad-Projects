@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "AD4PS1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "AD4PS1")
+        (spec "default")
+    )
+)

@@ -1,0 +1,16 @@
+.ETC4-1-2TR :1 ;Audio Transformers / Signal Transformers 2-800MHz Imp. Ratio 1:4
+E_SERIES_1
+*STM T
+*NGS
+*PLB 1="SEC_1" 2="SEC_2" 3="SEC_3" 4="PRI_1" 5="PRI_2"
+*MXP 5
+*DFN ETC4-1-2TR
+~!Mouser Part Number (937-ETC4-1-2TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/MACOM/ETC4-1-2TR?qs=zQS7eqYV0KQWFRSCtmGkFA%3D%3D)
+~!Manufacturer_Name (MACOM)
+~!Manufacturer_Part_Number (ETC4-1-2TR)
+~!Link Datasheet (https://cdn.macom.com/datasheets/ETC4-1-2-TR.pdf)
+~!Height (-)
+~!3D_Model (ETC4-1-2TR)
+ETC4-1-2TR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

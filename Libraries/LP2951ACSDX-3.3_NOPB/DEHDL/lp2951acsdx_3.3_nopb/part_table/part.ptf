@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LP2951ACSDX_3.3_NOPB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LP2951ACSDX-3.3/NOPB" (!) = "", "SON80P400X400X80-9N", "Small Outline No-lead", "926-LP2951ACSDX33NPB", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP2951ACSDX-3.3-NOPB?qs=7lkVKPoqpbbkq6LfzZBrqw%3D%3D", "Series of Adjustable Micropower Voltage Regulators", "http://www.ti.com/lit/gpn/LP2951-N", "0.8 mm"
+END_PART
+
+END.

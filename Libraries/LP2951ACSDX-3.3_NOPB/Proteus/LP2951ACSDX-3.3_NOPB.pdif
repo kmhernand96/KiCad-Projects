@@ -1,0 +1,145 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LP2951ACSDX-3.3_NOPB"
+   (description "Series of Adjustable Micropower Voltage Regulators")
+   (family "ANA")
+   (package "SON80P400X400X80-9N")
+   (attribute "Datasheet Link" "http://www.ti.com/lit/gpn/LP2951-N")
+   (attribute "Geometry.Height" "0.8mm")
+   (attribute "Mouser Part Number" "926-LP2951ACSDX33NPB")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP2951ACSDX-3.3-NOPB?qs=7lkVKPoqpbbkq6LfzZBrqw%3D%3D")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "LP2951ACSDX-3.3/NOPB")
+   (gate
+    (symbol "LP2951ACSDX-3.3_NOPB")
+    (pin "OUT" 1 PS)
+    (pin "SENSE" 2 PS)
+    (pin "SHUTDOWN" 3 PS)
+    (pin "GND_1" 4 PS)
+    (pin "GND_2" 9 PS)
+    (pin "IN" 8 PS)
+    (pin "FEEDBACK" 7 PS)
+    (pin "VTAP" 6 PS)
+    (pin "$ERROR$" 5 PS)
+   )
+  )
+  (symbol "LP2951ACSDX-3.3_NOPB"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1400 100) (pt 1400 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -1000) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SON80P400X400X80-9N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.625 2.3)
+      (pt 2.625 2.3)
+      (pt 2.625 -2.3)
+      (pt -2.625 -2.3)
+      (pt -2.625 2.3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2 2)
+      (pt 2 2)
+      (pt 2 -2)
+      (pt -2 -2)
+      (pt -2 2))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2 1)
+      (pt -1 2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.25)
+     (circle
+      (pt -2.25 1.875) (pt -2.5 1.875)
+     )
+    )
+   )
+   (leg 1 (pt -1.95 1.2) (padstack 0))
+   (leg 2 (pt -1.95 0.4) (padstack 0))
+   (leg 3 (pt -1.95 -0.4) (padstack 0))
+   (leg 4 (pt -1.95 -1.2) (padstack 0))
+   (leg 5 (pt 1.95 -1.2) (padstack 0))
+   (leg 6 (pt 1.95 -0.4) (padstack 0))
+   (leg 7 (pt 1.95 0.4) (padstack 0))
+   (leg 8 (pt 1.95 1.2) (padstack 0))
+   (leg 9 (pt 0 0) (padstack 9))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.35 0.85 0 0 0))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 2.65 3.05 0 0 90))
+   )
+   (model "LP2951ACSDX-3.3_NOPB.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BD80FD0WHFP_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "BD80FD0WHFP-TR" (!) = "", "BD80FD0WHFPTR", "Other", "755-BD80FD0WHFP-TR", "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD80FD0WHFP-TR?qs=%252BEew9%252B0nqrCidEQxdXcK7Q%3D%3D", "LDO Voltage Regulator, Fixed, 2.5 to 32 V in, 0.4 V Dropout, 8 V/2 A out, HRP-5", "https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxfd0xxxx-e.pdf", "2.135 mm"
+END_PART
+
+END.

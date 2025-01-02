@@ -1,0 +1,16 @@
+.LP2951ACSDX-3.3_NOPB :1 ;Series of Adjustable Micropower Voltage Regulators
+SON80P400X400X80-9N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="SENSE" 3="SHUTDOWN" 4="GND_1" 5="'ERROR'" 6="VTAP" 7="FEEDBACK" 8="IN" 9="GND_2"
+*MXP 9
+*DFN LP2951ACSDX-3.3_NOPB
+~!Mouser Part Number (926-LP2951ACSDX33NPB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP2951ACSDX-3.3-NOPB?qs=7lkVKPoqpbbkq6LfzZBrqw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LP2951ACSDX-3.3/NOPB)
+~!Link Datasheet (http://www.ti.com/lit/gpn/LP2951-N)
+~!Height (0.8mm)
+~!3D_Model (LP2951ACSDX-3.3_NOPB)
+LP2951ACSDX-3.3_NOPB
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=MACOM
+PartNumber=ETC4-1-2TR
+PartCategory=Transformer
+PackageCategory=Other
+PinCount=5
+Version=1.1
+Released=2019-08-02 13:57:26
+Downloaded=2024-12-11 17:08:35
+3D=Y

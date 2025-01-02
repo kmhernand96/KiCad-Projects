@@ -1,0 +1,15 @@
+.BD80FD0WHFP-TR :1 ;LDO Voltage Regulator, Fixed, 2.5 to 32 V in, 0.4 V Dropout, 8 V/2 A out, HRP-5
+BD80FD0WHFPTR
+*STM IC
+*NGS
+*PLB 1="CTL" 2="VCC" 3="GND" 4="VO" 5="N.C." 6="FIN"
+*MXP 6
+*DFN BD80FD0WHFP-TR
+~!Mouser Part Number (755-BD80FD0WHFP-TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD80FD0WHFP-TR?qs=%252BEew9%252B0nqrCidEQxdXcK7Q%3D%3D)
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (BD80FD0WHFP-TR)
+~!Link Datasheet (https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxfd0xxxx-e.pdf)
+~!Height (2.135mm)
+BD80FD0WHFP-TR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 
