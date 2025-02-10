@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.475,
-          "width": 0.45
+          "drill": 2.89,
+          "height": 4.335,
+          "width": 4.335
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.2032
         }
       },
       "diff_pair_dimensions": [],
@@ -598,14 +598,6 @@
     [
       "5568129f-8c17-4563-a74d-d153486aa845",
       "VME_BREAKOUT"
-    ],
-    [
-      "51884ab3-d69e-442a-9a16-bca5a85639fb",
-      "HPC DIO Header"
-    ],
-    [
-      "84d14ee0-8aa8-4e73-ae20-ac81a8950f62",
-      "LPC DIO Header"
     ]
   ],
   "text_variables": {}

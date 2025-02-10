@@ -1,4 +1,4 @@
-24192780197580283
+24211870443886181
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64042,6 +64042,41 @@ solder jumper open
 0
 5
 3
+LDOs
+BD80FD0WHFPTR
+BD80FD0WHFP-TR-2
+Integrated Circuit
+0
+6
+6
+LDOs
+HRP5_ROM
+
+BD00D0AWHFP-TR 
+0
+6
+6
+LDOs
+SON80P400X400X80-9N
+NGT0008A_
+Integrated Circuit
+0
+9
+9
+LDOs
+SOT95P280X100-5N
+UJ-5 (TSOT)_1
+Integrated Circuit
+0
+5
+5
+LDOs
+SOT230P700X180-4N
+DCY (R-PDSO-G4)
+Integrated Circuit
+0
+4
+4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -86582,6 +86617,20 @@ PCB antenna
 0
 20
 1
+RF_Componets
+AD4PS1
+AD4PS-1+
+Undefined or Miscellaneous
+0
+8
+8
+RF_Componets
+ETC4_1_2TR
+E_Series_1
+Transformer
+0
+5
+5
 RF_Converter
 Anaren_0805_2012Metric-6
 https://cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf
@@ -89893,6 +89942,27 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SamacSys_Parts
+5000
+5000
+Connector
+0
+1
+1
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOT230P700X180-4N
+DCY (R-PDSO-G4)
+Integrated Circuit
+0
+4
+4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -96365,6 +96435,13 @@ TestPoint
 TestPoint_THTPad_D4.0mm_Drill2.0mm
 THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm
 test point THT pad
+0
+1
+1
+Test_Points
+5000
+5000
+Connector
 0
 1
 1

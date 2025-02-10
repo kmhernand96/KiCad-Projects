@@ -963,7 +963,7 @@
 		)
 	)
 	(sheet
-		(at 189.23 127)
+		(at 133.35 124.46)
 		(size 12.7 19.05)
 		(fields_autoplaced yes)
 		(stroke
@@ -975,7 +975,7 @@
 		)
 		(uuid "14c20e4b-8094-4ee9-b4fd-0033fa622cb6")
 		(property "Sheetname" "BUFFERS1"
-			(at 189.23 126.2884 0)
+			(at 133.35 123.7484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -984,7 +984,7 @@
 			)
 		)
 		(property "Sheetfile" "BUFFERS_cont.kicad_sch"
-			(at 189.23 146.6346 0)
+			(at 133.35 144.0946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1001,45 +1001,7 @@
 		)
 	)
 	(sheet
-		(at 153.67 62.23)
-		(size 20.32 44.45)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "51884ab3-d69e-442a-9a16-bca5a85639fb")
-		(property "Sheetname" "HPC DIO Header"
-			(at 153.67 61.5184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "FMC0_DIO_Header.kicad_sch"
-			(at 153.67 107.2646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "dioBreakOutBoard"
-				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
-					(page "8")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 204.47 59.69)
+		(at 106.68 60.96)
 		(size 41.91 48.26)
 		(fields_autoplaced yes)
 		(stroke
@@ -1051,7 +1013,7 @@
 		)
 		(uuid "5568129f-8c17-4563-a74d-d153486aa845")
 		(property "Sheetname" "VME_BREAKOUT"
-			(at 204.47 58.9784 0)
+			(at 106.68 60.2484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1060,7 +1022,7 @@
 			)
 		)
 		(property "Sheetfile" "VME_BRKOUT.kicad_sch"
-			(at 204.47 108.5346 0)
+			(at 106.68 109.8046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1077,7 +1039,7 @@
 		)
 	)
 	(sheet
-		(at 162.56 127)
+		(at 106.68 124.46)
 		(size 12.7 19.05)
 		(fields_autoplaced yes)
 		(stroke
@@ -1089,7 +1051,7 @@
 		)
 		(uuid "5e8f3915-9bbc-4265-9f6c-261485abfd20")
 		(property "Sheetname" "BUFFERS"
-			(at 162.56 126.2884 0)
+			(at 106.68 123.7484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1098,7 +1060,7 @@
 			)
 		)
 		(property "Sheetfile" "BUFFERS.kicad_sch"
-			(at 162.56 146.6346 0)
+			(at 106.68 144.0946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1110,44 +1072,6 @@
 			(project "dioBreakOutBoard"
 				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
 					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 152.4 175.26)
-		(size 19.05 34.29)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "84d14ee0-8aa8-4e73-ae20-ac81a8950f62")
-		(property "Sheetname" "LPC DIO Header"
-			(at 152.4 174.5484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "LPC_DIO_Header.kicad_sch"
-			(at 152.4 210.1346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "dioBreakOutBoard"
-				(path "/98e3a74d-079b-42d2-b386-3e452c68576a"
-					(page "9")
 				)
 			)
 		)
